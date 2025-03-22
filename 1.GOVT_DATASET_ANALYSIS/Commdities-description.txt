@@ -1,0 +1,35 @@
+# Top 10 Most Traded Commodities (by Frequency):
+
+# Onion (most traded)
+# Dry Chillies, Groundnut, Gur (Jaggery), Tomato, Paddy (Dhan) (Common), Brinjal, Moath Dal, Pumpkin, etc.
+#  State with the Highest Average Modal Price:
+
+# Andhra Pradesh → ₹6260
+# State with the Lowest Average Modal Price:
+
+# West Bengal → ₹3740
+# Commodity with the Highest Modal Price:
+
+# Dry Chillies → ₹16,500
+# Commodity with the Lowest Modal Price:
+
+# Brinjal → ₹1,400
+# Market with the Maximum Recorded Modal Price:
+
+# Hindupur (Commodity: Dry Chillies) → ₹16,500
+# Market with the Minimum Recorded Modal Price:
+
+# Kalikiri (Commodity: Tomato) → ₹1,400
+# Average Modal Price Across All Commodities:
+
+# ₹5000
+# Correlation Between Prices:
+
+# Min Price & Max Price: 86.4% correlation
+# Min Price & Modal Price: 86.1% correlation
+# Max Price & Modal Price: 99.9% correlation (almost identical)
+# Top 10 States Contribution to the Market:
+
+# Andhra Pradesh → 45.5%
+# West Bengal → 45.5%
+# Others → 9.1%
